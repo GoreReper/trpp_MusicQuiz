@@ -17,22 +17,23 @@
 <p>Приложение представляет из себя (ВСТАВЬТЕ ТЕКСТ СЮДА) </p>
 
 
-<p align="center"><img width="400" src="img/1.jpg"></p>
-<p>(ВСТАВЬТЕ ТЕКСТ СЮДА) </p>
-
-<p align="center"><img width="400" src="img/2.jpg"></p>
+<p align="center><img width="300" src="img/1.jpg"></p>
 
 <p>(ВСТАВЬТЕ ТЕКСТ СЮДА) </p>
 
-<p align="center"><img width="400" src="img/3.jpg"></p>
+<p align="center><img width="300" src="img/2.jpg"></p>
 
 <p>(ВСТАВЬТЕ ТЕКСТ СЮДА) </p>
 
-<p align="center"><img width="400" src="img/4.jpg"></p>
+<p align="center><img width="300" src="img/3.jpg"></p>
 
 <p>(ВСТАВЬТЕ ТЕКСТ СЮДА) </p>
 
-<p align="center"><img width="400" src="img/5.jpg"></p>
+<img width="400" src="img/4.jpg">
+
+<p>(ВСТАВЬТЕ ТЕКСТ СЮДА) </p>
+
+<p align="center><img width="300" src="img/5.jpg"></p>
 
 
 
