@@ -17,7 +17,25 @@
 <p>Приложение представляет из себя (ВСТАВЬТЕ ТЕКСТ СЮДА) </p>
 
 
-<img align="center" src="images/1eng.png">
+<img align="center" src="img/1.jpg">
+
+<p>(ВСТАВЬТЕ ТЕКСТ СЮДА) </p>
+
+<img align="center" src="img/2.jpg">
+
+<p>(ВСТАВЬТЕ ТЕКСТ СЮДА) </p>
+
+<img align="center" src="img/3.jpg">
+
+<p>(ВСТАВЬТЕ ТЕКСТ СЮДА) </p>
+
+<img align="center" src="img/4.jpg">
+
+<p>(ВСТАВЬТЕ ТЕКСТ СЮДА) </p>
+
+<img align="center" src="img/5.jpg">
+
+
 
 
 <h1 align="center">Зависимости, используемые в проекте</h1>
