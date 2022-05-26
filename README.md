@@ -38,6 +38,9 @@
     implementation "androidx.lifecycle:lifecycle-extensions:2.2.0"
     annotationProcessor "androidx.lifecycle:lifecycle-compiler:2.4.1"
 }</p>
+<h1 align="center">Запуск проекта</h1>
+
+<p>Для запуска проекта необходимо скачать репозиторий, распакавать его, после чего открыть с помощью программы Android Studios. Внутри программы необходимо открыть папку с проектом и нажать кнопку "Run"</p>
 
 <h1 align="center"> Итоги </h1>
 
