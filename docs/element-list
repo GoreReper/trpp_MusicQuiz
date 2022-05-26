@@ -1,0 +1,5 @@
+com.example.musicapp
+com.example.musicapp.mvvm.models
+com.example.musicapp.mvvm.repository
+com.example.musicapp.mvvm.viewModels
+com.example.musicapp.mvvm.views

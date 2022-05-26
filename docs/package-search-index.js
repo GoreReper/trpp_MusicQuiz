@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.example.musicapp"},{"l":"com.example.musicapp.mvvm.models"},{"l":"com.example.musicapp.mvvm.repository"},{"l":"com.example.musicapp.mvvm.viewModels"},{"l":"com.example.musicapp.mvvm.views"}]
