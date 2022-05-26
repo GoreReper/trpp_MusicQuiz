@@ -22,6 +22,8 @@
 
 <h1 align="center">Зависимости, используемые в проекте</h1>
 <p>dependencies {
+    
+    
     implementation 'androidx.appcompat:appcompat:1.4.1'
     implementation 'com.android.support.constraint:constraint-layout:2.0.4'
     testImplementation 'junit:junit:4.13.2'
