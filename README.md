@@ -15,22 +15,12 @@
 <p>Данное приложение было реализовано, как итоговый проект для предмета ТРПП (Технология разработки программных приложений)</p>
 
 <p>Приложение представляет из себя (ВСТАВЬТЕ ТЕКСТ СЮДА) </p>
-<p align="center"><img width="200" src="img/1.jpg"> <img width="200" src="img/2.jpg"> </p>
+<p align="center"><img width="200" src="img/1.jpg"> <img width="200" src="img/2.jpg"> <img width="200" src="img/3.jpg"> <img width="200" src="img/4.jpg"> 
+<img width="200" src="img/5.jpg"> <img width="200" src="img/6.jpg">
+</p>
 
 <p>(ВСТАВЬТЕ ТЕКСТ СЮДА) </p>
-<p align="center"><img width="200" src="img/2.jpg"></p>
 
-<p>(ВСТАВЬТЕ ТЕКСТ СЮДА) </p>
-<p align="center"><img width="200" src="img/3.jpg"></p>
-
-<p>(ВСТАВЬТЕ ТЕКСТ СЮДА) </p>
-<p align="center"><img width="200" src="img/4.jpg"></p>
-
-<p>(ВСТАВЬТЕ ТЕКСТ СЮДА) </p>
-<p align="center"><img width="200" src="img/5.jpg"></p>
-
-<p>(ВСТАВЬТЕ ТЕКСТ СЮДА) </p>
-<p align="center"><img width="200" src="img/6.jpg"></p>
 
 
 
