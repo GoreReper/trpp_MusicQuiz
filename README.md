@@ -17,7 +17,7 @@
 <p>Приложение представляет из себя (ВСТАВЬТЕ ТЕКСТ СЮДА) </p>
 
 
-<img align="center" src="img/1.jpg">
+<img align="center" width= "350" src="img/1.jpg">
 
 <p>(ВСТАВЬТЕ ТЕКСТ СЮДА) </p>
 
