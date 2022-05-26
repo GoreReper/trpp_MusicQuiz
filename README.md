@@ -1,8 +1,7 @@
 # trpp_MusicQuiz
-<h1 align="center">Тест для проверки знаний английского языка</h1>
+<h1 align="center">Музыкальаня викторина</h1>
 <p align="center">
 <img src="https://img.shields.io/badge/version-1.0.0-darkblue">
-<img src="https://img.shields.io/badge/%20by-Выборнов А.Д.%2C%20Абдусалямова С.К.">
 </p>
 
 <h1 align="center">Состав команды</h1>
