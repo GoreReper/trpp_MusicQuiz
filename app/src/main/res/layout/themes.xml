@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradientback"
+    tools:context=".MainActivity">
+
+    <View
+        android:id="@+id/noteback"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/noteback" />
+    <LinearLayout
+        android:id="@+id/menu"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginHorizontal="12dp"
+        android:orientation="horizontal"
+        android:maxWidth="480dp"
+        android:maxHeight="48dp">
+
+
+        <ImageView
+            android:visibility="invisible"
+            android:id="@+id/arrow"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            app:srcCompat="@drawable/arrow"
+            tools:ignore="ContentDescription" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3" />
+
+        <TextView
+            android:id="@+id/themes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/overpass"
+            android:text="@string/themes"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3" />
+        <View
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_marginRight="0dp"/>
+
+
+
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/menu"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="2dp">
+
+        <LinearLayout
+            android:id="@+id/list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="8dp"
+            android:layout_marginTop="2dp"
+            android:orientation="vertical">
+
+
+            <LinearLayout
+                android:id="@+id/theme1"
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:layout_marginBottom="12dp"
+                android:background="@drawable/whitelistsec"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/album1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:layout_weight="4"
+                    app:srcCompat="@drawable/rand" />
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="7"
+                    android:orientation="vertical"
+                    android:weightSum="5">
+
+                    <TextView
+
+                        android:id="@+id/name1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="0dp"
+                        android:layout_weight="2"
+                        android:fontFamily="@font/overpass"
+                        android:text="@string/random"
+                        android:textColor="@color/black"
+                        android:textSize="32sp" />
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="0dp"
+                        android:layout_weight="3">
+
+                        <TextView
+                            android:id="@+id/tag1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="@font/overpass"
+                            android:text="@string/tag"
+                            android:textColor="@color/gray"
+                            android:textSize="24sp" />
+
+                        <TextView
+                            android:id="@+id/hashtags1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/tag1"
+                            android:fontFamily="@font/overpass"
+                            android:text="@string/tagRandom"
+                            android:textColor="@color/link"
+                            android:textSize="20sp" />
+                    </RelativeLayout>
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:layout_marginBottom="12dp"
+                android:background="@drawable/whitelistsec"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/album2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:layout_weight="4"
+                    app:srcCompat="@drawable/rand" />
+
+                <LinearLayout
+                    android:id="@+id/theme2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="7"
+                    android:orientation="vertical"
+                    android:weightSum="5">
+
+                    <TextView
+
+                        android:id="@+id/name2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="0dp"
+                        android:layout_weight="2"
+                        android:fontFamily="@font/overpass"
+                        android:text="@string/random"
+                        android:textColor="@color/black"
+                        android:textSize="32sp" />
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="0dp"
+                        android:layout_weight="3">
+
+                        <TextView
+                            android:id="@+id/tag2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="@font/overpass"
+                            android:text="@string/tag"
+                            android:textColor="@color/gray"
+                            android:textSize="24sp" />
+
+                        <TextView
+                            android:id="@+id/hashtags2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/tag2"
+                            android:fontFamily="@font/overpass"
+                            android:text="@string/tagRandom"
+                            android:textColor="@color/link"
+                            android:textSize="20sp" />
+                    </RelativeLayout>
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

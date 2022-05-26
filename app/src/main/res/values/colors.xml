@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#2B0052</color>
+    <color name="purple_500">#2B0052</color>
+    <color name="firstLine">#2B0052</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#757575</color>
+    <color name="lineColor">#7B1FA2</color>
+    <color name="actButton">#A441FF</color>
+    <color name="link">#0000FF</color>
+    <color name="purpleB">#691B99</color>
+    <color name="purpleW">#9B4DCB</color>
+    <color name="green">#99e310</color>
+    <color name="exp">#9EEF5F</color>
+    <color name="grayW">#BDBDBD</color>
+    <color name="second">#B1B1B1</color>
+    <color name="correct">#4FDB43</color>
+    <color name="incorrect">#ED2B2B</color>
+
+</resources>
