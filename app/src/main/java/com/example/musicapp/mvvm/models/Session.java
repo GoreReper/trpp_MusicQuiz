@@ -1,9 +1,10 @@
 package com.example.musicapp.mvvm.models;
-
+/**
+ * Класс "Сессия"
+ */
 public class Session {
 
 
-    private int theme;
     private int players;
     private int rounds;
     private int time;
@@ -32,7 +33,6 @@ public class Session {
     }
 
     public Session(int theme, int players, int rounds, int time) {
-        this.theme = theme;
         this.players = players;
         this.rounds = rounds;
         this.time = time;

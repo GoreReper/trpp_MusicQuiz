@@ -1,9 +1,14 @@
 package com.example.musicapp.mvvm.viewModels;
 
-import androidx.lifecycle.MutableLiveData;
+
 import androidx.lifecycle.ViewModel;
 
 import com.example.musicapp.mvvm.repository.SessionRepository;
+/**
+ * Отвечает за функционал экранной формы "Правила"
+ *
+ */
+
 
 public class RulesViewModel extends ViewModel {
 

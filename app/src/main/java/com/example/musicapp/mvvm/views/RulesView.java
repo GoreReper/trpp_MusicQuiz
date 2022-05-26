@@ -14,6 +14,10 @@ import androidx.lifecycle.ViewModelProvider;
 import com.example.musicapp.R;
 import com.example.musicapp.mvvm.viewModels.RulesViewModel;
 
+/**
+ * Отвечает за просмотр экранной формы "Правила"
+ */
+
 public class RulesView extends AppCompatActivity {
 
     Button startButt;

@@ -1,5 +1,7 @@
 package com.example.musicapp.mvvm.models;
-
+/**
+ * Класс "Игрок"
+ */
 public class Player {
     private int id;
     private String name;

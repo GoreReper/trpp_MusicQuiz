@@ -1,11 +1,8 @@
 package com.example.musicapp.mvvm.models;
 
-
-import android.media.MediaPlayer;
-import android.view.View;
-
-import com.example.musicapp.R;
-
+/**
+ * Класс "Песня"
+ */
 
 public class Song {
     private int id;

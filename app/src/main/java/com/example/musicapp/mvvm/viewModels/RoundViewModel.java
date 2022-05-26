@@ -13,6 +13,9 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Random;
 
+/**
+ * Отвечает за функционал экранной формы "Раунд"
+ */
 
 public class RoundViewModel extends ViewModel {
     public SongRepository songRepo = new SongRepository();

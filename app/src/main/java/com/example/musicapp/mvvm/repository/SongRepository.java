@@ -5,7 +5,9 @@ import com.example.musicapp.mvvm.models.Song;
 
 import java.util.ArrayList;
 import java.util.Collections;
-
+/**
+ * Отвечает за хранения информации о песнях
+ */
 public class SongRepository {
 
 

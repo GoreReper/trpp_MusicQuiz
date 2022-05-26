@@ -9,6 +9,9 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.musicapp.R;
 import com.example.musicapp.mvvm.repository.SongRepository;
+/**
+ * Отвечает за просмотр экранной формы "Темы"
+ */
 
 public class ThemesView extends AppCompatActivity {
     LinearLayout theme1;

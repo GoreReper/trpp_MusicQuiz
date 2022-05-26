@@ -28,6 +28,9 @@ import com.example.musicapp.mvvm.viewModels.RoundViewModel;
 import java.util.Timer;
 import java.util.TimerTask;
 
+/**
+ * Отвечает за просмотр экранной формы "Раунд"
+ */
 
 public class RoundView extends AppCompatActivity {
     Button[] ansButt = new Button[4];
@@ -204,6 +207,8 @@ public class RoundView extends AppCompatActivity {
                      finish();
                  }
                  else if (roundVM.time == 0 ){
+                     ansButt[numButt].setBackgroundResource(R.drawable.whiteshape);
+                     ansButt[numButt].setTextColor(getResources().getColor(R.color.black));
                      runOnUiThread(new Runnable() {
                          final String round = "Round " + (roundVM.currentRound+2);
                          @Override
@@ -229,8 +234,6 @@ public class RoundView extends AppCompatActivity {
 
                 }
                 else if(roundVM.time==SessionRepository.getTime()+1){
-                    ansButt[numButt].setBackgroundResource(R.drawable.whiteshape);
-                    ansButt[numButt].setTextColor(getResources().getColor(R.color.black));
                     runOnUiThread(new Runnable() {
                         @Override
                         public void run() {

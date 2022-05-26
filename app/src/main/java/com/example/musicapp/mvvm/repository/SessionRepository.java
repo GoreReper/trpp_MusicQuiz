@@ -1,7 +1,9 @@
 package com.example.musicapp.mvvm.repository;
 
 import com.example.musicapp.mvvm.models.Session;
-
+/**
+ * Отвечает за хранения информации о текущей сессии
+ */
 public class SessionRepository {
 
     public static Session session = new Session(0,0,0,0);

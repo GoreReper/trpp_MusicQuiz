@@ -8,6 +8,9 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.musicapp.R;
+/**
+ * Отвечает за просмотр экранной формы "Главное Меню"
+ */
 
 public class MainMenuView extends AppCompatActivity {
     Button playButton;

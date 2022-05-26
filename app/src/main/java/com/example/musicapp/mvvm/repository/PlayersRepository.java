@@ -6,6 +6,9 @@ import com.example.musicapp.mvvm.models.Song;
 
 import java.util.ArrayList;
 import java.util.Collections;
+/**
+ * Отвечает за хранения информации о игроках в сессии
+ */
 
 public class PlayersRepository {
     private final ArrayList<Player> players = new ArrayList<>();
