@@ -29,7 +29,7 @@
 
 <p>(ВСТАВЬТЕ ТЕКСТ СЮДА) </p>
 
-<p align="center><img width="400" src="img/4.jpg"></p>
+<img width="400" src="img/4.jpg">
 
 <p>(ВСТАВЬТЕ ТЕКСТ СЮДА) </p>
 
