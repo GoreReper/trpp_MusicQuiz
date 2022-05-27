@@ -1,8 +1,5 @@
 # trpp_MusicQuiz
 <h1 align="center">Музыкальная викторина</h1>
-<p align="center">
-<img src="https://img.shields.io/badge/version-1.0.0-darkblue">
-</p>
 
 <h1 align="center">Состав команды</h1>
 <ul>
